@@ -1,15 +1,16 @@
-# Welcome to MkDocs
+# 欢迎来到AI量化实验室 的专栏
 
-For full documentation visit [AI量化实验室](http://www.ailabx.com).
+官方网站 [AI量化实验室](http://www.ailabx.com).
 
-## Commands
+## 关于本专栏
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `量化的初心：投资、投机、量化到AI+
+* `MVO风险-收益最优配置到大类资产风险平价
+* `被动管理到主动管理
+* `规则、模型，集成树模型，深度强化学习到大模型LLM
+* `量化
 
-## Project layout
+## 专栏目录
 
     mkdocs.yml    # The configuration file.
     docs/
